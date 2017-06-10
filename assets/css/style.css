@@ -1,0 +1,54 @@
+body {	
+	padding-top: 0px;
+    width: 100%;
+    height: 100%;
+}
+/*style for gifGetter and gifHeaderRow*/
+.container {
+	width: 100%;
+	background: black;
+}
+/*style for title*/
+	h1.gifGetter {
+
+		font-family: 'Lemon', cursive;
+		font-size: 65px;
+		color: black;
+		text-shadow: 3px 3px #F8F8FF;	
+		padding: 10px 10px 10px 20px;	
+	}
+	.gifHeaderRow {
+		background-color: olive;
+		margin-bottom: 0px;
+/*style for bandImage*/	
+	}
+	.bandImage {
+		display: inline-block;
+		padding: 10px;
+	}
+/*style for addButton*/	
+	.addButton {
+		float: right;
+		color: olive;
+		background: black;
+		padding-top: 10px;
+	}
+/*style for gifImagesRow*/		
+.gifImagesRow {
+	background: black;
+	}
+.gifButtonsRow {
+	background: black;
+	padding: 20px 10px;	
+	}
+.gifButton {
+	width: 160px;
+	color: white;
+	background: black;
+}
+/*style for gir ratings*/	
+.rating {
+	font-family: 'lemon';
+	color: white;
+	font-size: 12px;
+}

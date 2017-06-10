@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+    <title>GifGetter: Classic Rock</title>
+    <!-- links to bootstrap, css, and google font -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">    
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lemon" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+       <!-- title header -->
+        <div class="col-sm-12 gifHeaderRow">
+         <h1 class="text-center gifGetter">GifGetter: Classic Rock</h1>
+        </div>
+    </div>
+  <div class="row">
+       <!-- input and submit area -->
+    <div class="col-sm-12 text-center addButton"> 
+      <form class="form-inline">
+        <div class="form-group">
+          <input type="text" id="addButtonText" class="form-control">
+          <input type="submit" value="Add Band" id="addButton" class="btn btn-default">
+        </div>
+      </form>
+  </div>
+  <!-- gif buttons area -->
+    <div class="col-sm-12 gifButtonsRow">
+        <div class="gifButtons text-center"></div>
+      </div>
+    </div>
+  <!-- area for gifs to appear -->
+    <div class="row">    
+      <div class="col-sm-12 text-center gifImagesRow">
+        <div class="gifImages"></div>
+      </div>
+    </div>
+</div>
+<!-- jquery and javascript scripts -->
+ <script src='https://code.jquery.com/jquery-3.1.1.js'></script>
+ <script src='assets/javascript/app.js' type="text/javascript"></script>
+</body>
+</html>
