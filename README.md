@@ -1,7 +1,7 @@
 # GifGetter
 <br>
 This app allows the user to pull gifs from the GIPHY API.
-
+<br>
 The app works by adding a form to the page which takes the value from the user input box and adds it to the topics array. Then, a function call takes each topic in the array to create buttons in the HTML on the page.
 
 When the user clicks on a button, the page grabs static, non-animated gif images from the GIPHY API and places them on the page. 
