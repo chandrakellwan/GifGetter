@@ -12,7 +12,7 @@ Above every gif, its rating is displayed (pg, g, etc.)
 <br>
 <br>
 
-Technologies Utilized: HTML, CSS, JavaScript, jQuery, Bootstrap, Giphy API.
+Technologies Utilized: <strong>HTML, CSS, JavaScript, jQuery, Bootstrap, Giphy API.</strong>
 <br>
 
 App link:
