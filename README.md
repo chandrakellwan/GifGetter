@@ -14,6 +14,7 @@ Above every gif, its rating is displayed (pg, g, etc.)
 
 Technologies Utilized: HTML, CSS, JavaScript, jQuery, Bootstrap, Giphy API.
 <br>
+<br>
 
 App link:
 https://chandrakellwan.github.io/GifGetter/
