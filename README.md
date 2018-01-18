@@ -11,6 +11,7 @@ When the user clicks one of the still GIPHY images, the gif animates. If the use
 Above every gif, its rating is displayed (pg, g, etc.) 
 <br>
 
+
 Technologies Utilized: HTML, CSS, JavaScript, jQuery, Bootstrap, Giphy API.
 <br>
 
